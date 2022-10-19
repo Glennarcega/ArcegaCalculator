@@ -1,5 +1,6 @@
 .container {
-    max-width: 400px;
+    max-width: 800px;
+    max-height: 800px;
     margin: 10vh auto 0 auto ;
     box-shadow: 0p 0px 43px 17px red;
 }
@@ -8,8 +9,8 @@
     border-top-right-radius: 15%;
     border-top-left-radius: 15%;
     text-align: right;
-    height: 70px;
-    line-height: 70px;
+    height: 120px;
+    line-height: 110px;
     padding: 16px 8px;
     font-size: 25px;
     background-color: black;
@@ -34,7 +35,7 @@
     background-color: #171717;
     color: white;
     border:  0.5px solid black;
-    line-height:  70px;
+    line-height:  120px;
     text-align: center;
     font-size: 25px;
     cursor: pointer;
